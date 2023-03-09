@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KandratUA
 - 👀 I’m interested in photo & football
-- 🌱 I’m currently learning C# & .NET
+- 🌱 I’m currently learning Java Developer
 
 <!---
 KandratUA/KandratUA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
